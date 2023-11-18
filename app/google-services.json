@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "100837722189",
+    "firebase_url": "https://my1stdoctor-c5f06-default-rtdb.firebaseio.com",
+    "project_id": "my1stdoctor-c5f06",
+    "storage_bucket": "my1stdoctor-c5f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100837722189:android:15da62ff4404a557eef404",
+        "android_client_info": {
+          "package_name": "com.doc.associates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100837722189-ld81dor79vf7gbvn9ldskkvg8auenpq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doc.associates",
+            "certificate_hash": "c205250615cf7efbcb7c82163bab6f228f281358"
+          }
+        },
+        {
+          "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLOMrHKZYaWFJBxAQzha_pov1jArNdds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100837722189:android:f7dc239b1ea7575deef404",
+        "android_client_info": {
+          "package_name": "com.doc.franchiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100837722189-c9ivsat0it87l15r6rco8gujf42f6lcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doc.franchiser",
+            "certificate_hash": "c205250615cf7efbcb7c82163bab6f228f281358"
+          }
+        },
+        {
+          "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLOMrHKZYaWFJBxAQzha_pov1jArNdds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100837722189:android:a1829547d1339efeeef404",
+        "android_client_info": {
+          "package_name": "com.doc.my1stdoctordriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100837722189-lll73qh03t15jh1v3k4908rok0eh0ng6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doc.my1stdoctordriver",
+            "certificate_hash": "c205250615cf7efbcb7c82163bab6f228f281358"
+          }
+        },
+        {
+          "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLOMrHKZYaWFJBxAQzha_pov1jArNdds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100837722189:android:4197c2938bca40eceef404",
+        "android_client_info": {
+          "package_name": "com.my1stDoctor.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100837722189-ku2fhkbheq91mce998u50r0b3kkukauh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my1stDoctor.user",
+            "certificate_hash": "c205250615cf7efbcb7c82163bab6f228f281358"
+          }
+        },
+        {
+          "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLOMrHKZYaWFJBxAQzha_pov1jArNdds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100837722189-c2dtfuvgqg7mkart7mil67r6ogmoq3kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
